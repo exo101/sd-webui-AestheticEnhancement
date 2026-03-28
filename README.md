@@ -68,12 +68,15 @@ git clone <repository_url> sd-webui-AestheticEnhancement
 - **点击图片** 可全屏放大查看详情
 - 展开底部 **📖 构图技巧详解** 阅读详细说明
 
+- <img width="1724" height="906" alt="QQ20260328-233521" src="https://github.com/user-attachments/assets/99368731-1709-45b2-9f2e-9cc78fc581cf" />
+
 ### 浏览打光技巧
 
 - 切换到 **💡 打光技巧** 标签页
 - 查看不同光位的照明效果
 - **点击图片** 可全屏放大查看细节
 - 展开底部 **💡 打光技巧详解** 学习布光原则
+- 
 
 ### 🎬 AI 智能分析（可选功能）
 
@@ -98,6 +101,8 @@ git clone <repository_url> sd-webui-AestheticEnhancement
    - 🎥 仅分镜分析
 5. 上传图片或视频
 6. 点击"🚀 开始分析"
+7. <img width="1789" height="916" alt="QQ20260328-233545" src="https://github.com/user-attachments/assets/11c2bd6a-a25f-48d3-88ba-d0c842fa5136" />
+
 
 #### 功能特点
 
