@@ -43,7 +43,8 @@ Bilibili: https://space.bilibili.com/403361177
 
 1. 进入 WebUI 的 `extensions` 目录
 2. 克隆或下载本插件到 `sd-webui-AestheticEnhancement` 文件夹
-3. 重启 WebUI
+3. 将ui_tempdir文件放入webui\modules目录
+4. 重启 WebUI
 
 ### 方式二：使用 Git
 
